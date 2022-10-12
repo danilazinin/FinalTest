@@ -1,1 +1,1 @@
-Block.png
+![Блок схема](Block.png)
